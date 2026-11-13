@@ -2,7 +2,7 @@
 
 Robotics engineer, manipulator control and ROS 2 systems, moving into learning-based manipulation.
 
-- Shipped gravity-compensation hand-guiding and Jacobian TCP-jogging controllers on production 6-axis arms, and built joint-space PID trajectory tracking.
+- Shipped gravity-compensation hand-guiding, Jacobian TCP-jogging and joint-space PID trajectory-tracking controllers on production 6-axis arms.
 - On a humanoid: led the ROS 2 architecture, OMPL constrained planning on depth point clouds, and real-time human-to-humanoid upper-body motion retargeting.
 - Industrial integration: built an OPC-UA bridge to a Siemens PLC.
 
